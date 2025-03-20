@@ -1,4 +1,4 @@
-# Sales Analysis and Forecasting Project
+# Sales Analysis and Customer Segmentation
 
 ## Overview
 This project involves a comprehensive analysis of sales data from 2009 to 2011. The analysis includes sales trends, market basket analysis using association rules, price elasticity, and geographic sales performance. Forecasting techniques are applied to predict future sales trends.
